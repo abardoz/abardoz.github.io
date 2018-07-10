@@ -1,0 +1,39 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="abardoz.github.io" resolutions="1x" timestamp="1531207000528">
+  <folder name="css">
+    <file name="site_global.css" crc="368432161"/>
+    <file name="master_a-master.css" crc="3937675179" ref="index"/>
+    <file name="index.css" crc="4214106288" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="summary.png" crc="3886823753" seo="true" mt="1530684428000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="phone>index:index"/>
+    <file name="museutils.js" crc="3790713428" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="84559013" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="phone>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="4219894366" ref="phone>index:index"/>
+    <file name="museredirect.js" crc="71780213" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo-u3754.png" crc="3951835609" ref="phone>index"/>
+    <file name="chart.svg" crc="283460074" ref="phone>index:index"/>
+    <file name="chart_poster_.png" crc="3777724453" ref="phone>index"/>
+    <file name="pasted image 434x128.jpg" crc="454636082" seo="true" ref="phone>index:index"/>
+    <file name="hunter.svg" crc="4068769724" ref="phone>index:index"/>
+    <file name="hunter_poster_.png" crc="398389386" ref="phone>index"/>
+    <file name="bo.gif" crc="350024239" seo="true" ref="phone>index:index"/>
+    <file name="in-white-28px-tm.png" crc="4191381062" seo="true" ref="phone>index:index"/>
+    <file name="logo-u1325.png" crc="439136378" ref="index"/>
+    <file name="chart2.svg" crc="336195540" ref="index"/>
+    <file name="chart2_poster_.png" crc="4229317953" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="476703321" ref="phone>index"/>
+      <file name="index.css" crc="72277791" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4234893869" seo="true" mt="1531206967023" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="11828948" seo="true" mt="1531206839352" redirect="true"/>
+</manifest>
